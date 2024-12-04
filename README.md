@@ -1,12 +1,9 @@
-<div align="center">
-    <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHSanaei&hide=contribs,issues&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MHSanaei&show_icons=true&theme=radical">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MHSanaei&show_icons=true&theme=default">
+</picture>
 <br>
-    
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHSanaei&layout=donut&theme=radical" alt="Top Langs">
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MHSanaei&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHSanaei&theme=default">
+</picture>
